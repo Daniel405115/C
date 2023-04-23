@@ -1,2 +1,2 @@
 # C
-## This is the C programing files
+This is the C programing files
